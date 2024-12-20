@@ -1,0 +1,7 @@
+[user]
+	email = cescoap@gmail.com
+	name = Francesco Apruzzese
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
