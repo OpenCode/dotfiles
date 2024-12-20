@@ -1,8 +1,8 @@
-# My Dot Files Collection
+# Dot Files Collection
 
 ## 1 - Initialize a bare repository
 
-````
+```
     git init --bare $HOME/dotfiles
     git --git-dir=$HOME/dotfiles config --local status.showUntrackedFiles no
 ```
