@@ -1,12 +1,10 @@
 {
   "extras": [
-    "lazyvim.plugins.extras.editor.outline",
-    "lazyvim.plugins.extras.lang.python",
-    "lazyvim.plugins.extras.ui.edgy",
-    "lazyvim.plugins.extras.ui.treesitter-context"
+    "lazyvim.plugins.extras.editor.fzf"
   ],
+  "install_version": 8,
   "news": {
     "NEWS.md": "10960"
   },
-  "version": 7
+  "version": 8
 }

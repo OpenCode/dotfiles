@@ -5,3 +5,4 @@ vim.opt.colorcolumn = "120"
 vim.opt.listchars = "space:."
 vim.opt.tabstop = 4
 vim.g.autoformat = false
+vim.g.lazyvim_picker = "fzf"
